@@ -1,0 +1,8 @@
+__pycache__/
+corpus/
+crf/
+
+*.sh
+*.txt
+*.crfsuite
+*__
